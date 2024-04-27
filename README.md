@@ -23,9 +23,14 @@
 
 <h2>Como fica no Mobile:</h2>
  <br></br> 
-<img align="center" src="https://github.com/hcinfo9/Projeto-CSS/blob/main/assets/Captura%20de%20tela%202024-04-26%20165124.png?raw=true" alt="img-mobile">
+ 
+![image](https://github.com/hcinfo9/Page-Responsive/assets/167317747/6625da14-3025-44e0-95ea-de33c193e04c)
+
 
 <br>
 <h2>Como fica em PC´s de Mesa:</h2>
 <br>
-<img align="center" src="https://github.com/hcinfo9/Projeto-CSS/blob/main/assets/Captura%20de%20tela%202024-04-26%20165017.png?raw=true" alt="img-pc">
+
+![image](https://github.com/hcinfo9/Page-Responsive/assets/167317747/4d8450aa-e82a-464a-9ee3-0c0b522ee862)
+
+
